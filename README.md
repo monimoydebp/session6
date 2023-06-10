@@ -8,6 +8,7 @@ In this assignment I have used the following changes in model
 * Global Average Pooling
 * Maxpooling
 * 3x3 Convolution
+* Softmax
 
 ## Results
 Total Number of parameters: 11,354
